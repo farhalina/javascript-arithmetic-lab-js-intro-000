@@ -25,7 +25,3 @@ function decrement(n){
 function makeInt(n){
   return n.parseInt();
 }
-
-function preserveDecimal(n){
-  return n.parseFloat();
-}
