@@ -7,6 +7,10 @@ function multiply(){
 function divide(){
 }
 
+function add(a + b){
+  returns (a + b);
+}
+
 var number = 10
 
 function add5() {
